@@ -1,0 +1,73 @@
+.logo {
+    width: 80px;
+}
+
+.text {
+    color: darkblue;
+}
+
+.fon {
+    width: 200px;
+    height: 200px;
+    background-color: darkblue;
+}
+
+.text {
+    color: blueviolet;
+}
+
+span {
+    background-color: blue;
+}
+
+
+
+a {
+    color: red;
+}
+
+.link1 {
+    color: aqua;
+}
+
+.link2 {
+    color: blue;
+}
+
+.text7 {
+    color: red;
+}
+
+.link8 {
+    color: aqua;
+}
+
+.link9 {
+    color: blue;
+}
+
+.contact-item {
+    color: aquamarine;
+}
+
+.contact-item span {
+    color: burlywood;
+    background: transparent;
+}
+.contact-item1{
+    color: black;
+}
+.contact-item1 span{
+    color: brown;
+    background-color: transparent;
+}
+.contact-item2{
+    color: aqua;
+}
+.contact-item3{
+    color: black;
+}
+.contact-item3 span{
+    color: brown;
+    background-color:transparent ;
+}
